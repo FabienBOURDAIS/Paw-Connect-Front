@@ -24,7 +24,7 @@ export default function Subscribe() {
 
     try {
       const response = await axios.post(
-        'https://paw-connect-back.onrender.com/api/register',
+        'https://paw-connect-back-5ze2.onrender.com/api/register',
         data,
         {
           headers: {
