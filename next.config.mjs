@@ -13,7 +13,7 @@ const nextConfig = {
       'localhost',
       'www.woopets.fr',
       'image.noelshack.com',
-      'paw-connect-back-5ze2.onrender.com',
+      'https://paw-connect-back-1i38.onrender.com',
     ],
   },
 };
